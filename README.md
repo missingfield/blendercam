@@ -1,3 +1,7 @@
+> [!WARNING]
+> Personal fork with 5.1 compatible wheels and only tested on Linux. Will not be providing support or reading issues.
+> opencamlib wheels sourced from: https://github.com/SpectralVectors/opencamlib/releases/tag/Python313_Wheels
+
 <div align="center">
 
 ![Fabex CNC CAM extension for Blender](docs/_static/fabex_logo_rectangle.png)
